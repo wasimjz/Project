@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\wasim\AndroidStudioProjects\SpeechToText1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6434f82efb3b29e995e290a2d0372e992584192e">
+        <dex dex="C:\Users\wasim\AndroidStudioProjects\SpeechToText1\app\build\intermediates\pre-dexed\debug\instant-run_2b6118b68b376922c15e95c841333ac50f17af5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\wasim\AndroidStudioProjects\SpeechToText1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f4e6987fe072a2dcd6997a86904d4fb6f63648dd">
+        <dex dex="C:\Users\wasim\AndroidStudioProjects\SpeechToText1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_91e85e0ba7c150f7ce06a2e95d47f12023f9b96f.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\wasim\AndroidStudioProjects\SpeechToText1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\wasim\AndroidStudioProjects\SpeechToText1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134.jar" />
+    </item>
+
+</items>

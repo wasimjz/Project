@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a"
+    api-level="18"
+    density="xxhdpi"
+    format="7"
+    timestamp="2777392590843" >
+
+    <task
+        name="javac"
+        duration="2979" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="487" />
+    <task
+        name="verifier"
+        duration="36" />
+
+    <artifact
+        location="C:\Users\wasim\AndroidStudioProjects\SpeechToText1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="2777392590843" >
+        <artifact
+            location="C:\Users\wasim\AndroidStudioProjects\SpeechToText1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
